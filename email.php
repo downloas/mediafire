@@ -1,6 +1,6 @@
 <?php
 
-$emailku = 'bagasarya752@gmail.com'; // EMAIL KAMU
+$emailku = 'gomgomsitanggang12@gmail.com'; // EMAIL KAMU
 
 $sender = 'From: 🔫 Bagas Arya 🔫 <store@bagasarya.com>'; 
 
